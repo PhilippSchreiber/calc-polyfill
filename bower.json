@@ -6,7 +6,7 @@
     "Robert Weber <closingtag@gmail.com>"
   ],
   "description": "A Polyfill for CSS3 calc()",
-  "main": "calc.min.js",
+  "main": "calc.js",
   "keywords": [
     "css3",
     "calc",
